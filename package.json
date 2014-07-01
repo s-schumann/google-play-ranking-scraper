@@ -1,0 +1,9 @@
+{
+  "name": "google-play-ranking-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cheerio": "0.17.x",
+    "request": "2.36.x"
+  }
+}
